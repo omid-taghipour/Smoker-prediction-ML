@@ -1,4 +1,4 @@
-# Machine-learning-smoker-prediction
+# Smoker-prediction-ML
 This project is designed to develop a machine learning model that can identify whether an individual is a smoker or not. The model will use various features such as age, gender, and other demographic factors to predict whether an individual is a smoker.
 
 # Dataset
